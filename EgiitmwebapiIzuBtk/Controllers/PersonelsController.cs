@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using EgiitmwebapiIzuBtk.DataContext;
 using EgiitmwebapiIzuBtk.Models;
 using EgiitmwebapiIzuBtk.Repositories;
 
