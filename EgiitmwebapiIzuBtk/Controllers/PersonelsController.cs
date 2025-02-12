@@ -4,7 +4,7 @@ using EgiitmwebapiIzuBtk.Repositories;
 
 namespace EgiitmwebapiIzuBtk.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class PersonelsController : ControllerBase
     {
